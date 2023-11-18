@@ -1,9 +1,12 @@
 # YOUTUBE-DATA-HARVESTING-AND-WAREHOUSING
 Guvi_CAPSTONE_Project_YOUTUBE-DATA-HARVESTING-AND-WAREHOUSING
-LinkedIn: https://www.linkedin.com/in/sneha-m-92a606209/ 
+
+LinkedIn: https://www.linkedin.com/in/sneha-m-92a606209/  
+
 You can now view your Streamlit app in your browser.
 Local URL: http://localhost:8501
 Network URL: http://192.168.0.106:8501
+
 Youtube-Data-Harvesting-And-Warehousing YouTube Data Harvesting and Warehousing is a project that intends to provide users with the ability to access and analyze data from numerous YouTube channels. SQL, MongoDB, and Streamlit are used in the project to develop a user-friendly application that allows users to retrieve, save, and query YouTube channel and video data.
 TOOLS AND LIBRARIES USED: this project requires the following components:
 •	STREAMLIT: Streamlit library was used to create a user-friendly UI that enables users to interact with the program and carry out data retrieval and analysis operations.
